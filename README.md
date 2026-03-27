@@ -1,6 +1,8 @@
 # Clustering-Spotify-Songs-Using-Audio-Features-KMeans-Approach-
 Clustering Spotify Songs Using Audio Features (KMeans Approach)
-# 🎧 Recreating Spotify “Made For You” Playlists with Machine Learning
+# Recreating Spotify “Made For You” Playlists with Machine Learning
+
+Link: https://www.linkedin.com/posts/erdi-ozyurt_spotify-kmeans-activity-7443033893605117953-wR11
 
 ## Project Overview
 Spotify gives users weekly playlists — but how are they created?
